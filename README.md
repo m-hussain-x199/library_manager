@@ -59,6 +59,3 @@ Developed by: Muhammad Hussain
 
 
 LinkedIn: www.linkedin.com/in/where-is-hussain
-
-## 📋 License
-This project is open source and free to use for personal learning and fun!
