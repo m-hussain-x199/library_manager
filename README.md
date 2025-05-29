@@ -19,7 +19,6 @@ Percentage of books read
 
 Save and Load Library: Automatically save to and load from a library.txt file.
 
-(Optional) Fancy Table Display using tabulate library for better visuals.
 
 # 🛠 Installation and Setup
 Clone the project or Download the library_manager.py file.
